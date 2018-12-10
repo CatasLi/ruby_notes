@@ -24,6 +24,6 @@ while a<10 #do可加可不加
 	a=a+1
 end
 puts "while end."
-10.times do #迭代器,必须加do
+5.times do #迭代器,必须加do
 	puts a
 end
